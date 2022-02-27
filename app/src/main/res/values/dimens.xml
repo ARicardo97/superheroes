@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="padding_general320">16dp</dimen>
+    <dimen name="text_large320">16sp</dimen>
+    <dimen name="padding_10dp_320">15dp</dimen>
+    <dimen name="text_medium320">14sp</dimen>
+    <dimen name="text_small320">12sp</dimen>
+    <dimen name="padding_10_320">10dp</dimen>
+    <dimen name="padding_320">10dp</dimen>
+    <dimen name="elevacion_4_320">4dp</dimen>
+    <dimen name="vacio">0dp</dimen>
+</resources>
